@@ -6,7 +6,7 @@ last_modified_at: 2023-09-24 21:12 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
-Welcome to **Winsley's Site**! Let me introduce myself.
+Let me introduce myself.
 
 ## 个人介绍
 &emsp;&emsp;Hi，我是2019级计科专业的郑雯欣。因为身体原因休学两年，现在是大五，可以说本来就没多少的基本知识，忘得差不多了。我还蛮期待后面的实验项目，估计能快速提升编程能力，也算是逼着把前几年混的都还回来。
